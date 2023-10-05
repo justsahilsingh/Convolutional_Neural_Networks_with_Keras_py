@@ -2,3 +2,4 @@
 Objective for this Notebook    
 -How to use the Keras library to build convolutional neural networks.
 -Convolutional Neural Network with One Convolutional and Pooling Layers.
+-Convolutional Neural Network with Two Convolutional and Pooling Layers
